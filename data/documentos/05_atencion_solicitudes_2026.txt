@@ -1,0 +1,19 @@
+BANCO NÉBULA — DOCUMENTO FICTICIO PARA LABORATORIO
+ID: SER-2026
+Título: Atención de solicitudes, quejas y consultas
+Versión: 1.0
+Estado: VIGENTE
+Vigencia: Desde 2026-03-01
+Área: Servicio
+
+1. Solicitudes informativas
+Las solicitudes de información general se responden en un plazo objetivo de cinco días hábiles.
+
+2. Quejas y reclamos
+Las quejas por inconformidad con un producto o servicio tienen un plazo objetivo de respuesta de diez días hábiles. El cliente debe recibir un identificador para hacer seguimiento.
+
+3. Notificaciones
+El banco comunica avances al correo electrónico previamente verificado. Una solicitud incompleta puede requerir información adicional.
+
+4. Límites del documento
+Este procedimiento no establece condiciones de transferencias internacionales ni tasas para productos futuros.

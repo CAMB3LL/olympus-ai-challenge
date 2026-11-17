@@ -1,0 +1,25 @@
+BANCO NÉBULA — DOCUMENTO FICTICIO PARA LABORATORIO
+ID: POL-CVH-2026
+Título: Crédito de Vivienda Horizonte — Política vigente
+Versión: 2.0
+Estado: VIGENTE
+Vigencia: Desde 2026-01-01
+Sustituye a: POL-CVH-2025
+
+1. Requisitos vigentes
+El solicitante debe ser mayor de edad, demostrar ingresos mensuales iguales o superiores a 3 SMMLV y aportar una cuota inicial mínima del 25 % del valor del inmueble.
+
+2. Plazos y financiación
+El plazo máximo de financiación es de 20 años (240 meses). Se puede financiar hasta el 75 % del valor comercial aceptado tras el avalúo.
+
+3. Documentación requerida
+Todas las personas deben presentar documento de identidad y autorización para la consulta de historial crediticio.
+- Personas empleadas: dos comprobantes de nómina recientes y certificación laboral.
+- Personas independientes: extractos bancarios de los últimos tres meses y declaración de ingresos firmada por contador.
+- En todos los casos se requiere avalúo del inmueble previo al desembolso.
+
+4. Tasas
+La tasa aplicable se consulta en el catálogo de productos vigente y puede cambiar entre periodos. No se debe inferir una tasa para fechas no publicadas.
+
+5. Control de versiones
+Esta política sustituye la versión POL-CVH-2025. Ante una consulta sobre requisitos actuales debe preferirse esta versión vigente.

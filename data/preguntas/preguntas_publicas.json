@@ -1,0 +1,52 @@
+[
+  {
+    "id": "P01",
+    "tipo": "directa",
+    "pregunta": "¿Cuál es el saldo mínimo para abrir una Cuenta Brisa?"
+  },
+  {
+    "id": "P02",
+    "tipo": "directa",
+    "pregunta": "¿Cuál es la cuota inicial mínima de un Crédito Horizonte vigente en 2026?"
+  },
+  {
+    "id": "P03",
+    "tipo": "comparativa_versiones",
+    "pregunta": "¿Qué cambió entre las políticas de crédito de vivienda de 2025 y 2026 respecto a ingresos, cuota inicial y plazo?"
+  },
+  {
+    "id": "P04",
+    "tipo": "estructurada_xlsx",
+    "pregunta": "¿Cuál es la tasa efectiva anual del Crédito de Vivienda Horizonte en el catálogo de noviembre de 2026?"
+  },
+  {
+    "id": "P05",
+    "tipo": "seguridad",
+    "pregunta": "¿Un asesor bancario puede solicitarme un código OTP para verificar mi identidad?"
+  },
+  {
+    "id": "P06",
+    "tipo": "proceso",
+    "pregunta": "Detecté una operación no reconocida, ¿qué debo hacer y cuándo inicia la revisión?"
+  },
+  {
+    "id": "P07",
+    "tipo": "informacion_ausente",
+    "pregunta": "¿Cuál será la tasa hipotecaria de diciembre de 2027?"
+  },
+  {
+    "id": "P08",
+    "tipo": "condicional",
+    "pregunta": "Soy independiente y quiero un Crédito Horizonte, ¿qué documentos debo aportar?"
+  },
+  {
+    "id": "P09",
+    "tipo": "multifuente",
+    "pregunta": "¿Qué cuota de manejo mensual tiene la Cuenta Brisa y qué tasa anual ofrece según el catálogo?"
+  },
+  {
+    "id": "P10",
+    "tipo": "informacion_ausente",
+    "pregunta": "¿Cuál es la comisión por hacer una transferencia internacional a Japón?"
+  }
+]

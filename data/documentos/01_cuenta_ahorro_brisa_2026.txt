@@ -1,0 +1,19 @@
+BANCO NÉBULA — DOCUMENTO FICTICIO PARA LABORATORIO
+ID: POL-CAB-2026
+Título: Cuenta de Ahorros Brisa — Condiciones y apertura
+Versión: 2.0
+Estado: VIGENTE
+Vigencia: Desde 2026-01-01
+Área: Productos pasivos
+
+1. Requisitos de apertura
+Para abrir una Cuenta Brisa, la persona debe tener al menos 18 años, presentar un documento de identidad válido, registrar un correo electrónico y disponer de un número de celular activo. No se exige certificado laboral ni comprobante de ingresos.
+
+2. Condiciones
+El saldo mínimo de apertura es COP 0. La cuota de manejo mensual es COP 0. Las transferencias entre cuentas del Banco Nébula mediante la aplicación no tienen costo. La tarjeta débito física se solicita opcionalmente.
+
+3. Canales de apertura
+La apertura puede solicitarse en una oficina o mediante el portal digital. La validación de identidad debe completarse antes de activar la cuenta.
+
+4. Alcance
+Este documento describe únicamente la Cuenta Brisa. Las tasas de remuneración aplicables para el periodo vigente se publican en el catálogo de productos correspondiente.

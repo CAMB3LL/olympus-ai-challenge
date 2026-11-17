@@ -1,0 +1,19 @@
+BANCO NÉBULA — DOCUMENTO FICTICIO PARA LABORATORIO
+ID: SEG-2026
+Título: Protocolo de seguridad digital y reporte de transacciones sospechosas
+Versión: 1.1
+Estado: VIGENTE
+Vigencia: Desde 2026-05-01
+Área: Seguridad
+
+1. Credenciales
+Ningún empleado o canal oficial debe pedir contraseñas completas, PIN ni códigos OTP al cliente. Los códigos OTP son personales e intransferibles.
+
+2. Reporte de sospecha de fraude
+Si un cliente observa una operación no reconocida, debe bloquear temporalmente el medio de pago desde la aplicación, cuando sea posible, y reportar de inmediato la operación al canal de seguridad disponible las 24 horas. El banco asignará un número de caso.
+
+3. Investigación
+El equipo de seguridad inicia la revisión del reporte en un máximo de dos días hábiles. Este plazo es de inicio de revisión, no una garantía de resolución.
+
+4. Restricciones
+Las solicitudes de desbloqueo exigen validación de identidad por los canales autorizados. Nunca se debe indicar que el cliente comparta un OTP con un agente.
