@@ -1,17 +1,30 @@
 """Embeddings, almacenamiento y recuperación vectorial con ChromaDB."""
 import hashlib
+import threading
 
 from src.config import CHROMA_PATH, COLLECTION_NAME, EMBEDDING_MODEL
 
 
 _EMBEDDINGS = None
+_CLIENTE_CHROMA = None
+_CHROMA_LOCK = threading.Lock()
 
 
 def cliente_chroma():
-    import chromadb
+    global _CLIENTE_CHROMA
 
-    CHROMA_PATH.mkdir(parents=True, exist_ok=True)
-    return chromadb.PersistentClient(path=str(CHROMA_PATH))
+    if _CLIENTE_CHROMA is not None:
+        return _CLIENTE_CHROMA
+
+    with _CHROMA_LOCK:
+        if _CLIENTE_CHROMA is not None:
+            return _CLIENTE_CHROMA
+
+        import chromadb
+
+        CHROMA_PATH.mkdir(parents=True, exist_ok=True)
+        _CLIENTE_CHROMA = chromadb.PersistentClient(path=str(CHROMA_PATH))
+        return _CLIENTE_CHROMA
 
 
 def _modelo_embeddings():
